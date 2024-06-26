@@ -1,0 +1,11 @@
+Journey Begins-Sk Akram
+Controls
+Left Arrow for Left
+Right Arrow for Right
+Space for Jump
+A for Firing
+Thank You!
+Rules
+Don't Get Near the Zombie Or Wolf
+otherwise
+Game Over!
