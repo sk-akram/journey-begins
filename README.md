@@ -2,8 +2,15 @@
 
 Journey Begins is a 2D platformer game developed using Python and Pygame.
 
-![Gameplay Screenshot](screenshot1.png)
-![Gameplay Screenshot](screenshot2.png)
+## Gameplay Video 🎥
+
+Watch the gameplay video to see the game in action:
+
+[![Gameplay Video](https://img.youtube.com/vi/Oe8OuMM7l6w/0.jpg)](https://youtu.be/Oe8OuMM7l6w)
+
+## Development 🚀
+
+This game was developed using Python programming language and Pygame library. It includes various game elements such as player movement, enemy AI, collision detection, and scoring system.
 
 ## Features ✨
 
